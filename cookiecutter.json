@@ -1,0 +1,11 @@
+{
+    "nombre_del_proyecto": "Plantilla Personal",
+    "plantilla": "{{ cookiecutter.nombre_del_proyecto.lower().replace(' ', '_').replace('-', '_') }}",
+    "autor": "Your name (or your organization/company/team)",
+    "descripcion": "Just Chilling",
+    "paquetes_del_proyecto": [
+      "Todos",
+      "Minimo"
+    ],
+    "version_de_python": "3.7"  
+  }
